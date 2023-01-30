@@ -1,2 +1,2 @@
 # review_rep
-For stepi task
+For stepik task
